@@ -5,3 +5,4 @@ git Sanay
 const Sanay = (san) => {
     age:20
 }
+fix2 changes 
